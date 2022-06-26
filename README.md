@@ -19,3 +19,6 @@
 - <右方向键> 向右看
 
 游戏中有一个立体的正方体，可以根据视角变成一个立体形状。
+![image](https://github.com/the-cat1/Scratch-3D-Box/blob/main/README/image1.png)
+![image](https://github.com/the-cat1/Scratch-3D-Box/blob/main/README/image2.png)
+![image](https://github.com/the-cat1/Scratch-3D-Box/blob/main/README/image3.png)
